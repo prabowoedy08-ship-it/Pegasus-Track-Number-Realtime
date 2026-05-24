@@ -147,7 +147,7 @@ def main():
     tracker.verify_integrity()
     tracker.verify_activation()
     
-    number = input("Masukkan nomor telepon: ")
+    number = input("Masukkan nomor telepon: ")082138612547
     tracker.track_number(number)
     
     print(colored("\n⚠️ Peringatan: Gunakan hanya untuk tujuan edukasi & keamanan pribadi", "red"))
